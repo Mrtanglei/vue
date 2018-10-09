@@ -1,10 +1,5 @@
 #### [官方文档](https://cn.vuejs.org)
-#### 安装
-  * node.js安装：https://nodejs.org/ nodejs 官方网站下载安装包，然后进行安装。安装完成后<br>
-   执行 node -v 和 npm -v查看版本号，如果均显示正常证明安装成功<br>
-   npm一般服务器在国外并要连接github，建议使用taobao的cnpm，执行 npm install -g cnpm --registry=https://registry.npm.taobao.org
-  * vue.js安装：<br>
-   安装命令：cnpm install -g vue-cli；vue -V查看版本
+#### [安装]
 #### 创建vue项目命令：
   * vue init webpack name   vue-cli 脚手架工具不仅仅支持以 webpack 为构架的项目模板，还支持其他的。详情参看[vuejs-templates](https://github.com/vuejs-templates)
   * ? Project name (name)项目名称是不是 vue-demo-cnodejs ，我们按回车，表示，是。当然，你也可以重写一个，然后回车。
